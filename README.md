@@ -57,7 +57,7 @@ For the compilation, the optimizer is `adam` and the loss function is `binary_cr
 ![d3-3output.PNG](https://github.com/Praveeja-Sasidharan-Suni/Neural_Network_Charity_Analysis-/blob/main/images/d3-3output.PNG?raw=true)
 
 - The results are saved to an HDF5 file.
-- 
+
 ### Deliverable 4:
 - A Written Report on the Neural Network Model is submitted.
 
