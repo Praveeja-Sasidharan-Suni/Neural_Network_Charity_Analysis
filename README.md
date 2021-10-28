@@ -35,6 +35,7 @@ For the compilation, the optimizer is `adam` and the loss function is `binary_cr
 ![d2-neuronscount.PNG](https://github.com/Praveeja-Sasidharan-Suni/Neural_Network_Charity_Analysis-/blob/main/images/d2-neuronscount.PNG?raw=true)
 
 ![d2-2output.PNG](https://github.com/Praveeja-Sasidharan-Suni/Neural_Network_Charity_Analysis-/blob/main/images/d2-2output.PNG?raw=true)
+- The results are saved to an HDF5 file.
 
 ### Deliverable 3:
 ### Optimize the Model using the knowledge of TensorFlow
@@ -54,6 +55,11 @@ For the compilation, the optimizer is `adam` and the loss function is `binary_cr
 
 ![d3-3code.PNG](https://github.com/Praveeja-Sasidharan-Suni/Neural_Network_Charity_Analysis-/blob/main/images/d3-3code.PNG?raw=true)
 ![d3-3output.PNG](https://github.com/Praveeja-Sasidharan-Suni/Neural_Network_Charity_Analysis-/blob/main/images/d3-3output.PNG?raw=true)
+
+- The results are saved to an HDF5 file.
+- 
+### Deliverable 4:
+- A Written Report on the Neural Network Model is submitted.
 
 ## Summary
 The deep learning neural network model could reach upto 74.75% accuracy. Considering that this target level is pretty average we could say that the model is not outperforming.\
