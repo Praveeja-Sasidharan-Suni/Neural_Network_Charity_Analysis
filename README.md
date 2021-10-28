@@ -62,6 +62,6 @@ For the compilation, the optimizer is `adam` and the loss function is `binary_cr
 - A Written Report on the Neural Network Model is submitted.
 
 ## Summary
-The deep learning neural network model could reach upto 74.75% accuracy. Considering that this target level is pretty average we could say that the model is not outperforming.\
+The deep learning neural network model could reach upto 74.75% accuracy.This target level is pretty average we could say that the model is not outperforming.\
 Since we are in a binary classification situation, we could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees 
 to generate a classified output and evaluate its performance against our deep learning model.
